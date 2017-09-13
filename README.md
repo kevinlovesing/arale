@@ -1,3 +1,3 @@
-# My Awesome Book
+# Arale平台简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Arale平台是由XX公司研发的新一代智能机器人云服务PaaS平台。它整合了最先进的云计算、分布式微服务、大数据、机器学习/深度学习、自然语言处理/语义理解、对话引擎等技术，为客户提供简单可依赖的云服务平台，让客户的产品插上人工智能的翅膀。Arale平台还为开发者提供了“能力商城”，让开发者能够施展自己的AI创新能力，与平台共享人工智能的红利。

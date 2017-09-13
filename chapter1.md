@@ -1,3 +1,17 @@
-# First Chapter
+# 快速开始
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+本章将快速带你使用平台创建一个自己的机器人。  
+前提先注册一个平台账号。
+
+首次登陆系统管理后台时，会显示“创建机器人”按钮。点击后，进入机器人配置页面。
+
+![](/assets/createbot.png)
+
+![](/assets/botbase.png)
+
+填写机器人基本信息，姓名、年龄、性别等。点击“保存”后，系统提示保存成功，第一个机器人就创建完毕了。
+
+点击侧边栏的“体验”窗口，就可以与机器人进行聊天了。
+
+![](/assets/chatexp.png)
+
